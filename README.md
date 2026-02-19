@@ -73,13 +73,17 @@
 
 ---
 
+<!-- 
 ## 🏆 GitHub Trophies
+The Trophy service is currently experiencing downtime (DEPLOYMENT_PAUSED).
+Uncomment this later when the service is back online.
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Manoj-alishala&theme=onedark" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Manoj-alishala&theme=onedark&column=7&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
   </a>
 </div>
+-->
 
 ---
 
