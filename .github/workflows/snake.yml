@@ -6,14 +6,24 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions: 
+      contents: write
+      pages: write
+      id-token: write
     steps:
-      - uses: Platane/snk@v3
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Generate Snake
+        uses: Platane/snk@v3
         with:
-          github_user_name: Manoj-alishala
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
