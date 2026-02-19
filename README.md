@@ -76,7 +76,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Manoj-alishala&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10&rank=-?" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Manoj-alishala&theme=onedark&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 ---
