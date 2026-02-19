@@ -77,7 +77,7 @@
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Manoj-alishala&theme=tokyonight&column=7&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Manoj-alishala&theme=onedark" alt="GitHub Trophies" />
   </a>
 </div>
 
